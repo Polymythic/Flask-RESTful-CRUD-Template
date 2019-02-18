@@ -1,7 +1,7 @@
 # Flask-RESTful-CRUD_Template
 
 ## Description
-This is a template to serve as the basis for a Flask(Pyton) REST API application.
+This is a template to serve as the basis for a Flask (Python) REST API application.
 
 ## Key Dependencies
 * Flask==1.0.2
